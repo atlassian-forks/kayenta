@@ -34,4 +34,4 @@ cp kayenta-web/config/kayenta.yml ~/.spinnaker/kayenta.yml
 docker-compose up
 ```
 
-You should then be able to access your local kayenta instance at http://localhost:8090/swagger-ui.html
+You should then be able to access your local kayenta instance at http://localhost:8090/swagger-ui.htm

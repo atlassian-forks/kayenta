@@ -14,7 +14,7 @@ can also be used for operational changes, including changes to configuration.
 
 ### Debugging
 
-To start the JVM in debug mode, set the Java system property `DEBUG=true`:
+To start the JVM in debug mode, set the Java system property `DEBUG=true`: 
 ```
 ./gradlew -DDEBUG=true
 ```
